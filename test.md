@@ -7,3 +7,5 @@ Esto es otra línea
 
 
 Palabra en **negrita**
+
+![](cara.png)
