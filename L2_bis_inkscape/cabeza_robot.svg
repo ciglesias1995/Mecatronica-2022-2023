@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4051"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="cabeza_robot.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4053"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.70199214"
+     inkscape:cx="435.90231"
+     inkscape:cy="493.59527"
+     inkscape:window-width="1862"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="147.18083,198.06282"
+       orientation="0,-1"
+       id="guide4262"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="27.137055,168.8528"
+       orientation="1,0"
+       id="guide4264"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="52.578045,156.60343"
+       orientation="1,0"
+       id="guide4266"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="139.07741,130.03173"
+       orientation="1,0"
+       id="guide4268"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="18.09137,176.76777"
+       orientation="0,-1"
+       id="guide4270"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,128.14721"
+       orientation="0,-1"
+       id="guide4278"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4048" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect4414"
+       style="fill:#ffd42a;stroke:#000000;stroke-width:0.264583"
+       d="m 54.686873,34.047988 a 11.829,11.829 0 0 0 -16.618652,-1.915905 11.829,11.829 0 0 0 -1.915587,16.619054 11.829,11.829 0 0 0 9.311475,4.474575 l 32.008352,40.348529 9.081093,-7.204 L 55.623666,47.381184 A 11.829,11.829 0 0 0 54.686873,34.047988 Z" />
+    <path
+       id="rect4414-9"
+       style="fill:#ffd42a;stroke:#000000;stroke-width:0.264583"
+       d="m 134.12818,34.047988 a 11.829,11.829 0 0 1 16.61865,-1.915905 11.829,11.829 0 0 1 1.91559,16.619054 11.829,11.829 0 0 1 -9.31148,4.474575 l -32.00836,40.348529 -9.08109,-7.204 30.92989,-38.989057 a 11.829,11.829 0 0 1 0.9368,-13.333196 z" />
+    <g
+       id="g4483">
+      <path
+         style="fill:#00ffff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 52.578045,83.225016 86.222215,0.06662 0.27715,15.645544 23.49461,0.06331 0.0103,21.23174 -23.50493,0 0,48.62056 H 52.578045 l 0,-48.62056 -25.44099,0 0.05519,-21.373403 25.3858,0.07835 z"
+         id="path4055"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <g
+         id="g4115"
+         transform="translate(-104.39713,35.918467)">
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           id="path4109"
+           cx="180.08777"
+           cy="74.499916"
+           rx="7.9660001"
+           ry="7.9661365" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+           id="path4111"
+           cx="181.34692"
+           cy="76.131203"
+           rx="5.9984345"
+           ry="5.9980001" />
+      </g>
+      <g
+         id="g4115-6"
+         transform="translate(-70.20566,35.944604)">
+        <ellipse
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           id="path4109-7"
+           cx="180.08777"
+           cy="74.499916"
+           rx="7.9660001"
+           ry="7.9661365" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+           id="path4111-5"
+           cx="181.34692"
+           cy="76.131203"
+           rx="5.9984345"
+           ry="5.9980001" />
+      </g>
+      <rect
+         style="fill:#ffd42a;stroke:#000000;stroke-width:0.264583"
+         id="rect4260"
+         width="62.401829"
+         height="13.332227"
+         x="66.181908"
+         y="146.07516" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 75.690636,145.94287 c 0,13.59681 0,13.59681 0,13.59681"
+         id="path4280" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 106.41047,145.94287 c 0,13.59681 0,13.59681 0,13.59681"
+         id="path4280-3" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 86.871703,145.94287 c 0,13.59681 0,13.59681 0,13.59681"
+         id="path4280-6" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 96.162672,145.94287 c 0,13.59681 0,13.59681 0,13.59681"
+         id="path4280-6-2" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 117.27199,145.94287 c 0,13.59681 0,13.59681 0,13.59681"
+         id="path4280-5" />
+    </g>
+  </g>
+</svg>
